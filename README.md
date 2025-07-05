@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Bienvenid@ al mundo rosa de Joana 🌸</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/PinkClouds.png" width="100%" />
+  <img src="https://es.pinterest.com/pin/150870656270175517/" width="100%" />
 </p>
 
 ---
