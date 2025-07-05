@@ -1,7 +1,11 @@
+<table align="center" width="100%" bgcolor="#ffe4f2">
+  <tr>
+    <td align="center">
+
 <h1 align="center">🌸 Hi there, Joana here :) 🌸</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/ee/7e/37/ee7e37cb632a41803080761ec74175be.jpg" width="100%" height="25%" />
+  <img src="https://i.pinimg.com/736x/ee/7e/37/ee7e37cb632a41803080761ec74175be.jpg" width="100%" height="25%" style="border-radius: 10px;" />
 </p>
 
 ---
@@ -10,6 +14,8 @@
 - 🎀 Frontend && Backend Developer.
 - 🎀 Currently learning JS with some silly games (Pac-Man, Minesweeper, Snake).
 - 🎀 Working hard everyday to learn new frameworks.
+
+---
 
 ### 💟 Tech Stack:
 
@@ -64,13 +70,16 @@
   </a> 
 </p>
 
-
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/27/60/66/276066980512844d09cc5372fa5a2f21.jpg" width="100%">
+  <img src="https://i.pinimg.com/736x/27/60/66/276066980512844d09cc5372fa5a2f21.jpg" width="100%" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
-  💌 ¡Thank you for visiting me!
+  💌 ¡Thank you for visiting me! 💕✨
 </p>
+
+</td>
+</tr>
+</table>
