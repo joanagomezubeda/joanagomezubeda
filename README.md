@@ -63,6 +63,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="margin: 0 8px;" />
   </a>
 </p>
+[![Angular](https://angular.io/assets/images/logos/angular/angular.svg)](https://angular.io) &nbsp;&nbsp;&nbsp;
+[![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://getbootstrap.com) &nbsp;&nbsp;&nbsp;
+[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/) &nbsp;&nbsp;&nbsp;
+[![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com/) &nbsp;&nbsp;&nbsp;
+
 
 
 ---
