@@ -1,7 +1,7 @@
-<h1 align="center">🌸 Bienvenid@ al mundo rosa de Joana 🌸</h1>
+<h1 align="center">🌸 Hello World 🌸</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/ee/7e/37/ee7e37cb632a41803080761ec74175be.jpg" width="100%" />
+  <img src="https://i.pinimg.com/736x/ee/7e/37/ee7e37cb632a41803080761ec74175be.jpg" width="100%" height="75%" />
 </p>
 
 ---
