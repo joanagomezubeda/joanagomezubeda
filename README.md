@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">🌸 Bienvenid@ al mundo rosa de Joana 🌸</h1>
 
-<!--
-**joanagomezubeda/joanagomezubeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsV7f6zKiDkPbnK/giphy.gif" width="200">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎀 ¡Hola! Soy **Joana**, una programadora creativa que ama el color rosa, los juegos y el diseño bonito.
+
+### 💻 Sobre mí:
+- 🌈 Frontend Developer con mucha pasión por el diseño visual.
+- 👾 Creando mi propio juego de **Pac-Man** en JavaScript.
+- 💅 Fan del estilo aesthetic y todo lo kawaii.
+
+### ✨ Tecnologías favoritas:
+<img src="https://skillicons.dev/icons?i=html,css,js,react,github" />
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hpp4Q4k64T8Ws/giphy.gif" width="300">
+</p>
+
+<p align="center">
+  💌 ¡Gracias por visitar mi perfil!
+</p>
