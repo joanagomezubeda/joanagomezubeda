@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Bienvenid@ al mundo rosa de Joana 🌸</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsV7f6zKiDkPbnK/giphy.gif" width="200">
+  <img src="https://i.imgur.com/PinkClouds.png" width="100%" />
 </p>
 
 ---
