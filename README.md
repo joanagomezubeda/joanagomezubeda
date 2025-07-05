@@ -14,7 +14,7 @@
 - 💅 Fan del estilo aesthetic y todo lo kawaii.
 
 ### ✨ Tecnologías favoritas:
-<img src="https://skillicons.dev/icons?i=html,css,js,react,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,angular, laravel" />
 
 ---
 
