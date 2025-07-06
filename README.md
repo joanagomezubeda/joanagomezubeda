@@ -16,7 +16,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" style='background-color: pink'>
         <a href="https://github.com/joaniiita/candy-crush">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaniiita&repo=candy-crush" />
         </a>
