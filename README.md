@@ -59,6 +59,7 @@
 </p>
 
 [![](https://img.shields.io/badge/github-pink?style=for-the-badge)](https://github.com/joanagomezubeda)
+[![](https://img.shields.io/badge/angular-pink?style=for-the-badge)](https://angular.dev)
 
 ---
 
