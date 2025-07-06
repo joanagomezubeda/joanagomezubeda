@@ -27,8 +27,6 @@
 [![](https://img.shields.io/badge/vue-pink?style=for-the-badge)](https://vuejs.org)
 [![](https://img.shields.io/badge/--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------pink?style=for-the-badge)]()
 
----
-
 ### 💟 My Repositories
 
 <div align="center">
