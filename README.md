@@ -41,11 +41,6 @@
     </tr>
   </table>
 </div>
-<div style="background-color: pink; padding: 10px; border-radius: 8px; width: 45%; text-align: center;">
-    <a href="https://github.com/joaniiita/candy-crush">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaniiita&repo=candy-crush" width="100%" />
-    </a>
-  </div>
 
 ### 💟 Tech Stack:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/github-pink?style=for-the-badge)](https://github.com/joanagomezubeda)
