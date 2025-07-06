@@ -29,6 +29,40 @@
 
 ---
 
+<h2 align="center">📦 Mis Repositorios</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/tu-usuario/repositorio-1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=repositorio-1" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/tu-usuario/repositorio-2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=repositorio-2" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/tu-usuario/repositorio-3">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=repositorio-3" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/tu-usuario/repositorio-4">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=repositorio-4" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+---
+
 <p align="center">
   <img src="https://i.pinimg.com/736x/27/60/66/276066980512844d09cc5372fa5a2f21.jpg" width="100%">
 </p>
