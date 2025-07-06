@@ -22,8 +22,9 @@ dddddd<h1 align="center">🌸 Hi there, Joana's here :) 🌸</h1>
 [![](https://img.shields.io/badge/slq_server-pink?style=for-the-badge)](https://www.microsoft.com/es-es/sql-server)
 [![](https://img.shields.io/badge/nodejs-pink?style=for-the-badge)](https://nodejs.org/es)
 [![](https://img.shields.io/badge/php-pink?style=for-the-badge)](https://www.php.net)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/typescript-pink?style=for-the-badge)](https://www.typescriptlang.org)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/vue-pink?style=for-the-badge)](https://vuejs.org)
+[![](https://img.shields.io/badge/vue-pink?style=for-the-badge)](https://vuejs.org)
 
 ---
 
