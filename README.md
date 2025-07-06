@@ -29,7 +29,7 @@
 
 ---
 
-<h2 align="center">🎀 My Repos</h2>
+### 💟 My Repositories
 
 <div align="center">
   <table>
