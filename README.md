@@ -19,7 +19,7 @@
 [![](https://img.shields.io/badge/javascript-pink?style=for-the-badge)](https://www.w3schools.com/js/)
 [![](https://img.shields.io/badge/figma-pink?style=for-the-badge)](www.figma.com)
 [![](https://img.shields.io/badge/java-pink?style=for-the-badge)](https://www.java.com/es/)
-[![](https://img.shields.io/badge/slq-server-pink?style=for-the-badge)](https://www.microsoft.com/es-es/sql-server)
+[![](https://img.shields.io/badge/slq_server-pink?style=for-the-badge)](https://www.microsoft.com/es-es/sql-server)
 [![](https://img.shields.io/badge/nodejs-pink?style=for-the-badge)](https://nodejs.org/es)
 [![](https://img.shields.io/badge/php-pink?style=for-the-badge)](https://www.php.net)
 [![](https://img.shields.io/badge/typescript-pink?style=for-the-badge)](https://www.typescriptlang.org)
