@@ -11,22 +11,6 @@
 - 🎀 Currently learning JS with some silly games (Pac-Man, Minesweeper, Snake).
 - 🎀 Working hard everyday to learn new frameworks.
 
-### 💟 Tech Stack:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/github-pink?style=for-the-badge)](https://github.com/joanagomezubeda)
-[![](https://img.shields.io/badge/angular-pink?style=for-the-badge)](https://angular.dev)
-[![](https://img.shields.io/badge/css-pink?style=for-the-badge)](https://www.w3schools.com/css/)
-[![](https://img.shields.io/badge/html-pink?style=for-the-badge)](https://www.w3schools.com/html/)
-[![](https://img.shields.io/badge/javascript-pink?style=for-the-badge)](https://www.w3schools.com/js/)
-[![](https://img.shields.io/badge/figma-pink?style=for-the-badge)](www.figma.com)
-[![](https://img.shields.io/badge/java-pink?style=for-the-badge)](https://www.java.com/es/)
-[![](https://img.shields.io/badge/slq_server-pink?style=for-the-badge)](https://www.microsoft.com/es-es/sql-server)
-[![](https://img.shields.io/badge/nodejs-pink?style=for-the-badge)](https://nodejs.org/es)
-[![](https://img.shields.io/badge/php-pink?style=for-the-badge)](https://www.php.net)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/typescript-pink?style=for-the-badge)](https://www.typescriptlang.org)
-[![](https://img.shields.io/badge/vue-pink?style=for-the-badge)](https://vuejs.org)
-[![](https://img.shields.io/badge/--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------pink?style=for-the-badge)]()
-
 ### 💟 My Repositories
 
 <div align="center">
@@ -58,6 +42,22 @@
   </table>
 </div>
 
+
+### 💟 Tech Stack:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/github-pink?style=for-the-badge)](https://github.com/joanagomezubeda)
+[![](https://img.shields.io/badge/angular-pink?style=for-the-badge)](https://angular.dev)
+[![](https://img.shields.io/badge/css-pink?style=for-the-badge)](https://www.w3schools.com/css/)
+[![](https://img.shields.io/badge/html-pink?style=for-the-badge)](https://www.w3schools.com/html/)
+[![](https://img.shields.io/badge/javascript-pink?style=for-the-badge)](https://www.w3schools.com/js/)
+[![](https://img.shields.io/badge/figma-pink?style=for-the-badge)](www.figma.com)
+[![](https://img.shields.io/badge/java-pink?style=for-the-badge)](https://www.java.com/es/)
+[![](https://img.shields.io/badge/slq_server-pink?style=for-the-badge)](https://www.microsoft.com/es-es/sql-server)
+[![](https://img.shields.io/badge/nodejs-pink?style=for-the-badge)](https://nodejs.org/es)
+[![](https://img.shields.io/badge/php-pink?style=for-the-badge)](https://www.php.net)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/typescript-pink?style=for-the-badge)](https://www.typescriptlang.org)
+[![](https://img.shields.io/badge/vue-pink?style=for-the-badge)](https://vuejs.org)
+[![](https://img.shields.io/badge/--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------pink?style=for-the-badge)]()
 
 ---
 
