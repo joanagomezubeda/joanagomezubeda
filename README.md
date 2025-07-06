@@ -40,20 +40,20 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/tu-usuario/repositorio-2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=repositorio-2" />
+        <a href="https://github.com/joaniiita/pacman">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaniiita&repo=pacman" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/tu-usuario/repositorio-3">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=repositorio-3" />
+        <a href="https://github.com/joaniiita/wordle">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaniiita&repo=wordle" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/tu-usuario/repositorio-4">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=repositorio-4" />
+        <a href="https://github.com/joaniiita/snake-game">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaniiita&repo=snake-game" />
         </a>
       </td>
     </tr>
@@ -66,6 +66,8 @@
 <p align="center">
   <img src="https://i.pinimg.com/736x/27/60/66/276066980512844d09cc5372fa5a2f21.jpg" width="100%">
 </p>
+
+---
 
 <p align="center">
   💌 ¡Thank you for visiting me!
