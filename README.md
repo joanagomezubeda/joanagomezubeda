@@ -29,14 +29,14 @@
 
 ---
 
-<h2 align="center">📦 Mis Repositorios</h2>
+<h2 align="center">🎀 My Repos</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/tu-usuario/repositorio-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=repositorio-1" />
+        <a href="https://github.com/joaniiita/candy-crush">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaniiita&repo=candy-crush" />
         </a>
       </td>
       <td align="center">
