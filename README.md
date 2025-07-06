@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hi there, Joana here :) 🌸</h1>
+<h1 align="center">🌸 Hi there, Joana's here :) 🌸</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/ee/7e/37/ee7e37cb632a41803080761ec74175be.jpg" width="100%" height="25%" />
