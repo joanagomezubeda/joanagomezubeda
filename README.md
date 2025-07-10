@@ -34,8 +34,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/joaniiita/snake-game">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaniiita&repo=snake-game" />
+        <a href="https://github.com/joaniiita/sudoku">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaniiita&repo=sudoku" />
         </a>
       </td>
     </tr>
